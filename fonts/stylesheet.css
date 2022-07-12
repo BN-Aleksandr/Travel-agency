@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Quick Kiss Personal Use';
+    src: url('QuickKissPersonalUse.eot');
+    src: url('QuickKissPersonalUse.eot?#iefix') format('embedded-opentype'),
+        url('QuickKissPersonalUse.woff2') format('woff2'),
+        url('QuickKissPersonalUse.woff') format('woff'),
+        url('QuickKissPersonalUse.ttf') format('truetype'),
+        url('QuickKissPersonalUse.svg#QuickKissPersonalUse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
